@@ -1,0 +1,25 @@
+Q1.  From this given string: s = "Hey i am from coding blocks". Find out: length of string, convert this to list using split operation.
+
+Q2.  Given string s = "name is rahul". Write code to give following o/p.
+- "Name is rahul"
+-  "Rame Is Rahul"
+-  "NAME IS RAHUL"
+
+Q3. Using length and breadth as input find out area and perimeter of a given rectangle.
+
+Q4. Using diameter as input find out circumference and area of a circle.
+
+Q5. Write a program to compute roots of a quadratic equation when coefficients a, b and c are known(entered by user).
+
+Q6. Find volume of a sphere using radius as input.
+
+Q7. Count the  number of digits in a number. Example: 3454 has 4 digits.
+
+Q8. Write a program that accepts a string and gives output string with all capital letters.
+
+Q9. Write a program to that accepts a string s, an index number n and a character ‘c’. And outputs the string replaced with the character at the index number n. Example- ‘hello’ , 0 , ‘j’ ==> ‘jello’.
+(Hint2: You can try it by join function too by typecasting it to list)
+
+Q10. Reverse a string. Example: 'Hey there' = 'ereht yeH' 
+
+ 
