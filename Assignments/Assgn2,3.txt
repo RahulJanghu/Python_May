@@ -1,0 +1,95 @@
+Q1. Write a program to print all the natural numbers from 1 to n (user input). Then print the same in reverse order.
+
+Q2. Print all odd numbers and even numbers between 1 to 100.
+
+Q3. Write a program to check if a number is prime or not. Example: 7 ==> True, 6 ==> False
+
+Q4. Write a program that asks the user for a number n and prints the sum of the numbers 1 to n such that only multiples of three or five are considered in the sum, e.g. 3, 5, 6, 9, 10, 12, 15 for n=17.
+
+Q5. Write a program that asks the user for a number n and gives them the possibility to choose between computing the sum and computing the product of 1,…,n.
+
+Q6. Find the sum of all the multiples of 3 or 5 below 1000.
+
+Q7. Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included).
+
+Q8. Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+
+Q9. Write a program which can compute the factorial of a given number.
+
+Q10. Pattern:
+
+- >
+
+1
+
+2 2
+
+3 3 3
+
+4 4 4 4
+
+5 5 5 5 5
+
+->
+5 5 5 5 5 
+5 4 4 4 5 
+5 4 3 4 5 
+5 4 4 4 5 
+5 5 5 5 5
+
+->
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+
+->
+****
+***
+**
+*
+
+->
+#####
+#####
+#####
+#####
+#####
+
+
+Q11. Write a program that computes the value of a+aa+aaa+aaaa with a given digit as the value of a. Suppose the following input is supplied to the program: 9, Then, the output should be: 9 + 99 + 999 + 9999 =  11106.
+
+Q12. Find the length of a string using loops (not len()).
+
+Q13. Write a program that accepts a sentence (string) and calculate the number of letters and digits. Example: ‘this is a test sentence number 389’ ==> letters = 25 and digits = 3.
+
+Q14.  Write a program that accepts a string and outputs the string with all capital letters.
+
+      Example: ‘hello’ ==> ‘HELLO’. (using loop)
+
+Q15. Write a program that accepts a sentence and calculate the number of upper case letters and lower case letters.
+
+Q16. Write  a program that counts the occurrence of a character in a string. Example: ‘This is a test string.’ count of i = 3.
+
+Q17. Write a program to find if a given string is a pallindrome or not.
+
+Q18. Output the integer number indicating the total number of occurrences of the substring in the original string.
+
+Q19. Swap cases in a string using loops. Ex: Original string: There are 206 bones, Updated string: tHEREAREBONES.
+
+Q20. Write a program which accepts two strings s1 and s2 and checks if s2 is a substring of s1.
+
+Q21. 
+15. Make a password validator with the following checks. A website requires the users to input username and password to register. Write a program to check the validity of password input by users.
+    Following are the criteria for checking the password:
+
+     1. At least 
+1 letter between [a-z]
+     
+2. At least 1 number between [0-9]
+     
+3. At least 1 letter between
+
+Q22. s = "Hi dwarka walo". For this given string write a code such that it prints the vowels present in the string s if any. ex: "i", "a" etc.
+
