@@ -1,0 +1,31 @@
+﻿Q1. Write a function that accepts two positional arguments (x and y) and returns x raised to power y.
+
+Q2. Write a function which returns a bool, indicating if the input number is even or not.
+
+Q3. Write function which returns a bool, indicating if the input number is a prime or not.
+
+Q4. Write function which returns a bool, indicating if the input is a pallindrome or not. Example: ‘abba’ ==> True , ‘fkdjskj’ ==> False , 12345 ==> False , 1221 ==> True.
+
+Q5. Write a program that takes input a string and find the number of words in the string.
+
+Q6. Write a program to find the largest of the three given numbers n,m,l. Example - input 4,9,2 →9.
+
+Q7. Write a program that reverses a number n (take n as input from user).
+
+Q8. Write a program to replace all the zeros in the number by 5. Example: input = 102920083, output ==> 152925583.
+
+Q9. Write a program to print a list in reverse order without creating a new list.
+
+Q10. Write a program that takes input n and searches the number from the list. print the index of the input number n.
+
+Q11. Write a program that takes input n and another number k (input from user ) and insert it at a particular index k(input from user.).
+
+Q12. Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given n scores. Store them in a list and find the score of the runner-up.
+
+Q13. Given a list of numbers containing pairs of numbers only one number does not form a pair. Find that number. Example: [1,1,2,2,4,5,4,7,7]  => 5.
+
+Q14. Write a program that inputs a list of numbers and returns square of each of the element.
+
+Q15. Write a program that takes input a list and finds the max and min numbers in the list.
+
+Q16. Write a program which returns a list where the values are square of numbers between 1 and 20 (both included). And prints all values except the first 5 elements in the list.

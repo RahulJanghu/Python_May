@@ -1,0 +1,44 @@
+Q1. Make a class named shape which has a method area, implement different shapes like circle, square with a method area.
+
+
+Q2. Implement a class stack and support the methods pop, push and top.
+
+
+Q3. Write a program to generate a random string of input length n.
+
+
+Q4. Write a program to make a dictionary where the keys are numbers between 1 and 10 (both included) and the values are square of keys. Example: {1:1 , 2:4 , 3:9}
+
+
+Q5. Write a program which can filter even numbers in a list.
+
+
+Q6. Write up a module of area of different 2d, 3d surfaces like circle, square, rectangle, cube, cuboid, cylinder, sphere. Make it commandline executable.
+
+
+Q7. Write a program that takes text file as an input and count the number of words in the file.
+
+
+Q8. Write a program to make a class for the real world entitity car. Assume some data attributes and methods to model a car.
+
+
+Q9. Construct a class Student with attributes name, age, rollnumber and methods getters and setters for all the attributes. Create a list of  10 students and then compute the average age of students in the batch.
+
+
+Q10. Implement a class called Animal with some data attributes and method . Make a class of dog and a class of cat which inherits from the class animal.
+
+
+Q11. Write a program that checks if the input is a valid email id or not. Example:  A valid email will be of the form  (x@y.com) where x and y  are any alpha numeric. 
+
+Input : abc@gmail.com ?  True
+
+         
+343fsd@hfjdsh.com  ? True
+        
+284738@hfdhfl.com ? True
+       
+438749@34729.com  ? True
+        
+jdksj@jksdfj.jfsk  ? False
+        
+kfjdsk@nfjsdn    ? False
