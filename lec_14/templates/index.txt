@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<title> Rahul's Website </title>
+<h2> Aaj Mausam bohot mast h </h2>
+<img src="/static/flasklogo.png"> <br> <br>
+<p> <a href="https://www.{{Website}}.com"> <img src="/static/beauty.jpeg"> </a> </p>
+
+<p> Hey I am {{Name}} </p>
+
+    
+</body>
+</html>
+    
